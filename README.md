@@ -1,2 +1,17 @@
-# llm-project
-This project uses text mining and semantic embedding techniques to automatically classify documents based on their content and meaning. It enables intelligent information retrieval by understanding user queries and identifying relevant documents efficiently. The system improves document organization, search accuracy
+# LLM-Based Document Q&A System
+
+A Retrieval-Augmented Generation (RAG) application that allows users to upload documents and ask questions.
+
+## Features
+- PDF/TXT document upload
+- Semantic search
+- Vector database (FAISS)
+- Gemini-powered answers
+- Source citation
+
+## Tech Stack
+- Python
+- Streamlit
+- LangChain
+- FAISS
+- Gemini API
